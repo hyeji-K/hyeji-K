@@ -7,7 +7,6 @@ I'm Hyeji Kim, a growing iOS developer.
 </br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
@@ -23,6 +22,7 @@ I'm Hyeji Kim, a growing iOS developer.
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"></a>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"></a>
 </br>
+
 <h3 align="center"><b>🛠 Cowork Tools 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a>
