@@ -1,10 +1,10 @@
 </br>
 <h3 align="center"><b>Hi there 👋</b></h3>
-<h4 align="center"><b>
+<h4 align="center">
 I'm Hyeji Kim, a growing iOS developer.
 
-</b></h3>
-
+</h3>
+</br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
