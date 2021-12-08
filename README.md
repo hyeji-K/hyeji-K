@@ -8,11 +8,13 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft\Azure-0078D4?style=flat&logo=Azure&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+
 
 
 
