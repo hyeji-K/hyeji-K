@@ -22,8 +22,9 @@ I'm Hyeji Kim, a growing iOS developer.
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"></a>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"></a>
-
+</br>
 <h3 align="center"><b>🛠 Cowork Tools 🛠</b></h3>
+<p align="center">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></a>
