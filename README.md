@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>
