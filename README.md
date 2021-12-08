@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyeji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
