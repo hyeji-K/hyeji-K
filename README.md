@@ -17,8 +17,9 @@ I'm Hyeji Kim, a growing iOS developer.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"></a>
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a> -->
 <!-- 깃 꾸미기 로고 사이트 https://simpleicons.org/?q=git -->
