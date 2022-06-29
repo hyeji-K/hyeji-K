@@ -13,7 +13,6 @@ I'm HyeJi Kim, a growing iOS developer 🌱
 <img alt="Combine" src ="https://img.shields.io/badge/Combine-0055af?&style=flat&logo=Apple&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"> -->
 <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a> -->
-</br>
 <p>
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a> -->
