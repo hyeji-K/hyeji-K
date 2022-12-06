@@ -6,11 +6,11 @@ I'm HyeJi Kim, a growing iOS developer 🌱
 </h3>
 </br>
 
-<h3><b>Tech Stack 🛠</b></h3>
+<!-- <h3><b>Tech Stack 🛠</b></h3>
 <p>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-000000?&style=flat&logo=Swift&logoColor=0055af">
-<img alt="Combine" src ="https://img.shields.io/badge/Combine-0055af?&style=flat&logo=Apple&logoColor=white">
+<img alt="Combine" src ="https://img.shields.io/badge/Combine-0055af?&style=flat&logo=Apple&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white"> -->
 <!-- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> -->
@@ -23,24 +23,24 @@ I'm HyeJi Kim, a growing iOS developer 🌱
 <!-- <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"></a> -->
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a> -->
 <!-- 깃 꾸미기 로고 사이트 https://simpleicons.org/?q=git -->
-</br>
-</br>
+<!-- </br>
+</br> -->
 
-<h3><b>Cowork Tools 🛠</b></h3>
+<!-- <h3><b>Cowork Tools 🛠</b></h3>
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"></a> -->
 <!-- <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a> -->
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"></a>
+<!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"></a> -->
 <!-- <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a> -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></a>
+<!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></a> -->
 
-</br>
-</br>
+<!-- </br>
+</br> -->
 
-<h3><b>Studying 💻</b></h3>
-<img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-000000?&style=flat&logo=Swift&logoColor=0055af">
+<!-- <h3><b>Studying 💻</b></h3>
+<img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-000000?&style=flat&logo=Swift&logoColor=0055af"> -->
 
-<br>
+<!-- <br> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji-K&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
