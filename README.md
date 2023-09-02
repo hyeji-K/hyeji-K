@@ -1,9 +1,20 @@
 </br>
 <h3><b>Hi there 👋</b></h3>
 <h4>
-I'm HyeJi Kim, a growing iOS developer 🌱
+I'm HyeJi Kim, iOS developer 🌱
+</h4>
+</br>
 
-</h3>
+Swift / SwiftUI / Combine / C / C++ / AI 
+
+<!-- 
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+<img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-FFFFFF?&style=flat&logo=Swift&logoColor=0055af">
+<img alt="Combine" src ="https://img.shields.io/badge/Combine-0055af?&style=flat&logo=Apple&logoColor=white">
+<img alt="firebase" src ="https://img.shields.io/badge/Firebase-FFCA28?&style=flat&logo=firebase&logoColor=white">
+<img alt="c" src ="https://img.shields.io/badge/C-A8B9CC?&style=flat&logo=c&logoColor=white">
+<img alt="cplusplus" src ="https://img.shields.io/badge/C++-00599C?&style=flat&logo=cplusplus&logoColor=white">
+-->
 </br>
 
 <!-- <h3><b>Tech Stack 🛠</b></h3>
