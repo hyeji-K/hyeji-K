@@ -1,11 +1,15 @@
 </br>
 <h3><b>Hi there 👋</b></h3>
 <h4>
-I'm HyeJi Kim, iOS developer 🌱
+I'm HyeJi Kim, iOS developer / AI Engineer 
 </h4>
-</br>
 
-Swift / SwiftUI / Combine / C / C++ / AI 
+저는 유연한 사고를 가진 개발자입니다. 
+
+해결하고 싶은 문제 혹은 아이디어를 실현하기 위해서 기술적인 한계를 두지 않으며,
+
+언제든지 필요한 기술이 있다면 배워서 활용할 준비가 되어 있습니다. 
+
 
 <!-- 
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
