@@ -1,9 +1,15 @@
 </br>
 <h3><b>Hi there 👋</b></h3>
 <h4>
-I'm HyeJi Kim, iOS developer / AI Engineer 
+I'm HyeJi Kim, App Developer.
+</h4>
+<h4>
+Code. Cats. Matcha. Repeat. 🧑🏻‍💻🐈🍵
 </h4>
 
+❗️ Not responsible for bugs caused by cat interruptions or excessive matcha consumption.
+
+<!-- 
 저는 유연한 사고를 가진 개발자입니다. 
 
 해결하고 싶은 문제 혹은 아이디어를 실현하기 위해서 기술적인 한계를 두지 않으며,
@@ -11,7 +17,7 @@ I'm HyeJi Kim, iOS developer / AI Engineer
 언제든지 필요한 기술이 있다면 배워서 활용할 준비가 되어 있습니다. 
 
 
-<!-- 
+
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img alt="SwiftUI" src ="https://img.shields.io/badge/SwiftUI-FFFFFF?&style=flat&logo=Swift&logoColor=0055af">
 <img alt="Combine" src ="https://img.shields.io/badge/Combine-0055af?&style=flat&logo=Apple&logoColor=white">
